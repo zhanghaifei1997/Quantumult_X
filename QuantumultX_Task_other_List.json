@@ -1,0 +1,25 @@
+
+
+{
+    "name": "Git-今晚打老虎",
+    "description": " 更新2021.12.23",
+    "task": [
+        {
+            "config": "30 9,20 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_kkz.js, tag=晶彩天气看看赚, enabled=false",
+            "addons": " "
+        },
+        {
+            "config": "20 7,18 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_read.js, tag=晶彩天气文章视频, enabled=false",
+            "addons": ""
+        },
+        {
+            "config": "15,45 * * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_daily.js, tag=晶彩天气日常任务, enabled=false",
+            "addons": ""
+        },
+        {
+            "config": "30 22 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_reward.js, tag=晶彩天气任务签到, enabled=false",
+            "addons": " "
+        },
+      
+    ]
+}

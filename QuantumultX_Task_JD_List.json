@@ -1,0 +1,359 @@
+
+{
+    "name": "Git-今晚打老虎",
+    "description": " 更新2021.12.17",
+    "task": [
+		{
+		    "config": "31 2,8 * * * https://ghproxy.com/https://raw.githubusercontent.com/zhanghaifei1997/Quantumult_X/main/JD_tencent_scf/jd_ddworld_exchange.js, tag=东东世界兑换, enabled=false",
+		    "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+		},
+		{
+		    "config": "31 2,8 * * * https://ghproxy.com/https://raw.githubusercontent.com/zhanghaifei1997/Quantumult_X/main/JD_tencent_scf/jd_mofang_j.js, tag=京东集魔方, enabled=false",
+		    "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+		},
+		{
+		    "config": "31 8 * * * https://ghproxy.com/https://raw.githubusercontent.com/zhanghaifei1997/Quantumult_X/main/JD_tencent_scf/jd_m_sign.js, tag=京东通天塔, enabled=false",
+		    "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+		},
+		{
+		    "config": "15 0-23/1 * * * https://ghproxy.com/https://raw.githubusercontent.com/zhanghaifei1997/Quantumult_X/main/JD_tencent_scf/jd_joy_feedPets.js, tag=宠汪汪喂食, enabled=false",
+		    "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+		},
+		{
+		    "config": "0 20 * * * https://ghproxy.com/https://raw.githubusercontent.com/zhanghaifei1997/Quantumult_X/main/JD_tencent_scf/jd_jdtj_winner.js, tag=京东特价翻翻乐, enabled=false",
+		    "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+		},
+		{
+		    "config": "0 20 * * * https://ghproxy.com/https://raw.githubusercontent.com/zhanghaifei1997/Quantumult_X/main/JD_tencent_scf/jd_joyjd_open.js, tag=我爱250, enabled=false",
+		    "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+		},
+		{
+		    "config": "0 20 * * * https://ghproxy.com/https://raw.githubusercontent.com/zhanghaifei1997/Quantumult_X/main/JD_tencent_scf/jd_desire.js, tag=jd_desire, enabled=false",
+		    "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+		},
+		{
+		    "config": "0 20 * * * https://ghproxy.com/https://raw.githubusercontent.com/zhanghaifei1997/Quantumult_X/main/JD_tencent_scf/jd_xqscjd.js, tag=写情书抽京豆, enabled=false",
+		    "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+		},
+		{
+		    "config": "0 20 * * * https://ghproxy.com/https://raw.githubusercontent.com/zhanghaifei1997/Quantumult_X/main/JD_tencent_scf/jd_jchsign.js, tag=京车会签到, enabled=false",
+		    "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+		},
+		{
+		    "config": "0 20 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jx_sign_xd.js, tag=惊喜签到, enabled=false",
+		    "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+		},
+		{
+		    "config": "0 20 * * * https://ghproxy.com/https://raw.githubusercontent.com/zhanghaifei1997/Quantumult_X/main/JD_tencent_scf/jd_gyp.js, tag=京东工业品, enabled=false",
+		    "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+		},
+		{
+		    "config": "0 20 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_jfcz.js, tag=见缝插针, enabled=false",
+		    "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+		},
+        {
+            "config": "0 20 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_bean_change.js, tag=京豆变动通知, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "15 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_bean_home.js, tag=领京豆额外奖励, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "0 0 * * * https://raw.fastgit.org/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东签到, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "2 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_sign_graphics.js, tag=京东签到②, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "5 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_ccSign.js, tag=京东领券中心签到, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_blueCoin.js, tag=东东超市兑换奖品, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "2 8,12,18 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_bookshop.js, tag=口袋书店, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "15 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_car.js, tag=京东汽车, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "5 0,6-23/4 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_cash.js, tag=签到领现金, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "0,1 0 0 * * 6,7,0,1 https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_cash_exchange.js, tag=领现金兑换红包, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "10 0,8,13,19 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_cfd.js, tag=京喜财富岛, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "10 0-23/6 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_cfd_loop.js, tag=京喜财富岛挂机, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "13 6,13,23 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_cfd_mooncake.js, tag=京喜财富岛合成月饼, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "6 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_club_lottery.js, tag=摇京豆, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "15 0,7-23 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_daily_egg.js, tag=天天提鹅, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "50 8 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_dwapp.js, tag=积分换话费, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "20 0,6-23 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_dreamFactory.js, tag=京喜工厂, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "10 0,6-18/6 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_fruit.js, tag=东东农场, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "15 0,7-23 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_jdfactory.js, tag=东东工厂, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "15 0,7-23 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_jdzz.js, tag=京东赚赚, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "12 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_jin_tie.js, tag=领金贴, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "18 0-23/2 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_joy.js, tag=京东宠汪汪, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "15 0,7-23 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_joy_steal.js, tag=京东宠汪汪偷好友积分与狗粮, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "35 15,19 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_joy_run.js, tag=京东宠汪汪赛跑, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "0 0-16/8 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_joy_reward.js, tag=宠汪汪积分兑换奖品, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "1 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jx_sign.js, tag=京喜签到, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "10 9,12,18 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_jxnc.js, tag=京喜农场, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "30 0,6-23/3 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_jxmc.js, tag=京喜牧场, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "45 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_jxg.js, tag=京小鸽, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "3 0,6-20/4 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_jxlhb.js, tag=京喜领红包, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "25 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_kd.js, tag=京东快递签到, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "10 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_ljd.js, tag=领京豆, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "2 0,6-23 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_lsj.js, tag=零食街, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "10-20/5 12 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_live.js, tag=京东直播, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "2 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_lotteryMachine.js, tag=京东抽奖机, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "35 0-23/2 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_moneyTree.js, tag=京东摇钱树, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "40 6-23/1 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_moneyTree_help.js, tag=京东摇钱树助力, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "12 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_ms.js, tag=京东秒秒币, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "20 9,23 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_nzmh.js, tag=女装盲盒, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "16 6-18/6 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_pet.js, tag=东东萌宠, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "12 0,7-23 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_pigPet.js, tag=京东金融养猪猪, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "6 0,7-21/2 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_plantBean.js, tag=种豆得豆, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "6 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_rankingList.js, tag=京东排行榜, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "30,35 0,5-23/3 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_redPacket.js, tag=京东全民开红包, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "25 8 * * * https://ghproxy.com/https://raw.githubusercontent.com/zhanghaifei1997/Quantumult_X/main/JD_tencent_scf/jd_sgmh.js, tag=闪购盲盒, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "10 0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_shop.js, tag=进店领豆, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "18 22 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_small_home.js, tag=东东小窝, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "1 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_speed_redpocke.js, tag=京东极速版红包, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "2 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_speed_sign.js, tag=京东极速版, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "18 0,7-23/1 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_superMarket.js, tag=东东超市, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "20 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_syj.js, tag=赚京豆, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "18 0,18 * * * https://ghproxy.com/https://raw.githubusercontent.com/zhanghaifei1997/Quantumult_X/main/JD_tencent_scf/jd_ttpt.js, tag=天天拼图, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "30 23 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_unsubscribe.js, tag=取关京东店铺商品, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "30 22 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_unsubscriLive.js, tag=取关京东主播, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "6 0,15 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_zjb.js, tag=赚金币, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "30 10-22/3 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_health.js, tag=健康社区, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "30 0,6-23/1 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_z_health_energy.js, tag=健康社区收取能量, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "25 6,22 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_gold_creator.js, tag=金榜创造营, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "2 0,6-23/3 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_mohe.js, tag=5G超级盲盒, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "18 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_ddly.js, tag=东东乐园, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "25 5-23/3 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_joy_park.js, tag=汪汪乐园合成joy, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "15 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_joy_park_task.js, tag=汪汪乐园任务, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "8 8,18 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_xyc.js, tag=柠檬众筹许愿池, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "35 6 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_zqfl.js, tag=早起福利, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "30 0,8-16 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_big_winner.js, tag=发财大赢家开红包, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "30 6-23/6 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_fcdyj.js, tag=发财大赢家助力, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "30 0,6-23/4 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_wsdlb.js, tag=柠檬我是大老板, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "40 0,7 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_earn30.js, tag=赚30, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "6 0,9,20 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_sddd.js, tag=送豆得豆, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "20 7,8 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_superBrand.js, tag=特物z, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "20 10 * 9 * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_star_shop.js, tag=星店长, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "20 0,11 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_wish.js, tag=许愿池, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "15 0,21 * 9 * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_connoisseur.js, tag=内容鉴赏官, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "30 0,6-23/6 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_qqxing.js, tag=QQ星系牧场, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "18 7,17 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_jmf.js, tag=集魔方, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        },
+        {
+            "config": "20 8 * * * https://ghproxy.com/https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_dpqd.js, tag=店铺签到, enabled=false",
+            "addons": " http://gjds.vip/QX/quantumutilx/QuantumultX/cookies.conf"
+        }
+    ]
+}
