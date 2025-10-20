@@ -1,0 +1,35 @@
+美好平台抽奖脚本使用说明
+
+1. 环境变量配置方法：
+
+方法一：创建 .env 文件
+复制 .env.example 文件为 .env，然后编辑填写实际信息：
+cp .env.example .env
+nano .env  # 或使用其他编辑器编辑
+
+方法二：直接设置环境变量
+export MH_COOKIE="token=your_token_here;sessionId=your_session_id_here"
+export MH_PHONE_NUMBERS="13800138000&13800138001"
+export MH_USER_AGENT="Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15"
+
+2. 运行脚本：
+node mh_lottery.js
+
+3. 定时任务设置（可选）：
+crontab -e
+添加以下行（每天9点、15点、21点执行）：
+0 9,15,21 * * * cd /path/to/mhShop && node mh_lottery.js
+
+4. 获取Cookie的方法：
+- 登录美好平台网站
+- 按F12打开开发者工具
+- 切换到Network标签
+- 刷新页面
+- 查找请求头中的Cookie字段
+- 复制完整的Cookie值
+
+5. 注意事项：
+- 脚本支持多账号运行
+- Cookie和手机号可以混合使用
+- 抽奖间隔设置了2秒延迟，避免请求过于频繁
+- 验证码默认为123456，实际使用时需要根据情况修改
