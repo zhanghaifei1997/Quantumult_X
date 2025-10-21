@@ -1,0 +1,10 @@
+{
+    "name": "美好平台任务",
+    "description": "美好平台自动抽奖任务",
+    "task": [
+        {
+            "config": "0 9,15,21 * * * https://raw.githubusercontent.com/zhanghaifei1997/Quantumult_X/main/mhShop/mh_lottery.js, tag=美好平台抽奖, enabled=true",
+            "addons": ""
+        }
+    ]
+}
