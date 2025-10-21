@@ -3,6 +3,20 @@
 cron "0 9,15,21 * * *" mh_lottery.js, tag=美好平台抽奖
 */
 
+// 模拟process对象，使其在浏览器中可用
+if (typeof process === 'undefined') {
+  window.process = {
+    env: {}
+  };
+}
+
+// 模拟module.exports，使其在浏览器中可用
+if (typeof module === 'undefined') {
+  window.module = {
+    exports: {}
+  };
+}
+
 const $ = new Env('美好平台抽奖');
 const notify = $.isNode() ? require('../sendNotify') : '';
 $.get = $.get || function() {};
