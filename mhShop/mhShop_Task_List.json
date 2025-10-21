@@ -5,6 +5,14 @@
         {
             "config": "0 9,15,21 * * * https://raw.githubusercontent.com/zhanghaifei1997/Quantumult_X/master/mhShop/mh_lottery.js, tag=美好平台抽奖, enabled=true",
             "addons": ""
+        },
+        {
+            "config": "0 31 8 * * * https://raw.githubusercontent.com/zhanghaifei1997/Quantumult_X/master/mhShop/mh_lottery.js, tag=美好平台每日任务, enabled=true",
+            "addons": ""
+        },
+        {
+            "config": "0 0 0 1 1 * https://raw.githubusercontent.com/zhanghaifei1997/Quantumult_X/master/mhShop/mh_lottery.js, tag=美好平台立即执行测试, enabled=true",
+            "addons": ""
         }
     ]
 }
